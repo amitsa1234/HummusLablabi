@@ -1,0 +1,122 @@
+body {
+    background-image: url(https://scontent.ftlv5-1.fna.fbcdn.net/v/t39.30808-6/274307277_4823208777792520_1219189252644937409_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=fPl-mGXZ-fwAX9SOINT&_nc_ht=scontent.ftlv5-1.fna&oh=00_AfCltC4tbSTIwJOwOnAgXxWuCOIn37jusKJCKoYKcrdpAg&oe=64821A00);
+    background-size: auto;
+}
+
+#humuslablabi {
+    position: absolute;
+    top: 1%;
+    left: 85%;
+    object-fit: contain;
+    width: 275px;
+    height: 275px;
+    object-fit: cover;
+    object-position: 50%;
+    border-radius: 100%;
+}
+
+#humuslablabi1 {
+    font-size: 47px;
+    text-align: center;
+    transform: scaleY(1.1);
+    color: rgb(233, 230, 68);
+}
+
+a {
+    text-decoration: none;
+}
+
+#herzlia {
+    color: rgb(233, 230, 68);
+    text-align: center;
+    font-size: 33px;
+}
+
+ul {
+    font-size: 30px;
+    color: rgb(245, 242, 87);
+    box-sizing: content-box;
+    margin-left: 29%;
+    margin-top: -4%;
+
+}
+
+li {
+    float: left;
+    width: 10%;
+    vertical-align: middle;
+    border: black solid 1px;
+    border-radius: 7px;
+    margin-inline: 1px;
+    background-color: rgb(245, 240, 88);
+    font-size: 30px;
+    color: rgb(62, 139, 38);
+    text-shadow: 1px 1px 2px #77b333;
+    list-style-type: none;
+    padding: 5px;
+
+}
+
+li:hover {
+    background-color: rgb(62, 139, 38);
+    color: rgb(245, 240, 88);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    color: #666;
+}
+
+.contact-info {
+    margin-bottom: 10px;
+}
+
+.contact-info p {
+    margin: 5px;
+}
+
+.social-links a {
+    display: inline-block;
+    margin: 0 5px;
+    font-size: 24px;
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #4d79ff;
+}
